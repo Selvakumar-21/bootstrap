@@ -1,0 +1,16 @@
+.hov:hover{
+	color: white;
+	background-color: gray;
+}
+
+.reg{
+	border-radius: 75px;
+}
+
+.fn{
+	margin-top: 40px;
+}
+
+.p-4{
+	margin: 0;
+}
